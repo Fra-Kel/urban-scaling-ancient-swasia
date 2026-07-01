@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("lme4")
+install.packages("lmerTest")
+install.packages("MuMIn")
+install.packages("DescTools")
+install.packages("patchwork")
+install.packages("influence.ME")

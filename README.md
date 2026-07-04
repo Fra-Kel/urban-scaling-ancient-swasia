@@ -1,6 +1,6 @@
 # Urban scaling in Ancient Southwest Asia
 
-Reproducibility notebook for Chelazzi & Lawrence (2026), "The emergence of urban scaling in Ancient Southwest Asia" (PLOS ONE).
+Reproducibility notebook for Chelazzi and Lawrence (2026), "The emergence of urban scaling in Ancient Southwest Asia" (PLOS ONE).
 
 ## Run the notebook online
 
